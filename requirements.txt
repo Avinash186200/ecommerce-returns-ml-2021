@@ -1,0 +1,16 @@
+numpy>=1.21
+pandas>=1.3
+scikit-learn>=1.0
+scipy
+matplotlib
+seaborn
+tensorflow>=2.8
+keras
+h5py
+rfpimp
+openpyxl
+xlrd
+xlsxwriter
+jupyter
+# the notebook also carries some unused boilerplate imports (ta, TA-Lib, pyodbc);
+# you can comment those import lines out, they are not needed here
