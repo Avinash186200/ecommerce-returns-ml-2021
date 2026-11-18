@@ -1,5 +1,7 @@
 # E-commerce returns prediction (2021)
 
+[![tests](https://github.com/Avinash186200/ecommerce-returns-ml-2021/actions/workflows/ci.yml/badge.svg)](https://github.com/Avinash186200/ecommerce-returns-ml-2021/actions/workflows/ci.yml)
+
 A case study where I predicted whether an item bought online will be sent back. I cleaned the order data, built
 customer and product history features (past return rates by user, item, brand, size, colour and state), trained a
 Random Forest and a small neural network, and chose a probability cut-off using a percentile and lift table. The
